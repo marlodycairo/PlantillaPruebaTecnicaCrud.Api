@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shop.Api.Infrastructure\Shop.Api.Infrastructure.csproj" />
+    <ProjectReference Include="..\Shop.Api.Infrastructure\PruebaTecnicaCrud.Api.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

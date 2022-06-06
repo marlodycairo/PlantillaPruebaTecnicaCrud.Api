@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shop.Api.Core\Shop.Api.Core.csproj" />
+    <ProjectReference Include="..\Shop.Api.Core\PruebaTecnicaCrud.Api.Core.csproj" />
   </ItemGroup>
 
 </Project>
